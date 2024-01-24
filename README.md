@@ -1,0 +1,2 @@
+# has_duplicateChar_inSameorOtherString
+has_duplicateChar_inSame_or_OtherString
